@@ -1,0 +1,9 @@
+requirements is given as:
+deepchem
+rdkit
+transformers
+peft
+bitsandbytes
+accelerate
+scikit-learn
+matplotlib
