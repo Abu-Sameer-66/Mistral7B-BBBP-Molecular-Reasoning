@@ -25,7 +25,6 @@
 
 
 
-
 ### 🧬 Project Mission: Beyond Simple Classification
 This repository contains the scientific implementation of a **Mistral-7B** based Blood-Brain Barrier Penetration (BBBP) predictor. Developed for **DeepChem GSoC 2026**, this project moves beyond standard "SMILES-only" fine-tuning by inducing physical chemical reasoning through property-aware descriptors.
 
